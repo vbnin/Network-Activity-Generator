@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>filteringWebsites</key>
+	<string>https://adobe.com,https://poker.com,https://gambling.com,https://groupon.com,https://chat.openai.com,https://claude.ai,https://bofa.com,https://cnn.com,https://booking.com,https://netflix.com,https://youtube.com,https://hulu.com,https://disneyplus.com,https://amazon.com,https://spotify.com,https://pandora.com,https://vimeo.com,https://twitch.tv,https://imdb.com,https://goodreads.com,https://steamcommunity.com,https://epicgames.com,https://link.testfile.org/PDF100MB,http://ipv4.download.thinkbroadband.com/100MB.zip,http://testfiles.hostnetworks.com.au/100MB.iso</string>
+	<key>ZTNAWebsites</key>
+	<string>https://salesforce.com,https://github.com,https://monday.com,https://okta.com,https://zoom.us,https://slack.com,https://trello.com,https://aws.amazon.com,https://azure.microsoft.com,https://cloud.google.com,https://datadog.com,https://splunk.com,https://tableau.com,https://airtable.com,https://notion.so,https://confluence.atlassian.com,https://workday.com,https://docusign.com,https://google.com/workspace</string>
+	<key>threatWebsites</key>
+	<string>https://phishing.threatops.co.uk,https://spam.threatops.co.uk,https://dropboxupdates.com,https://www.eicar.org/download-anti-malware-testfile,https://malware.threatops.co.uk</string>
+	<key>scheduleInterval</key>
+	<integer>5</integer>
+	<key>isRandomEnabled</key>
+	<true/>
+	<key>autorunAtLaunch</key>
+	<true/>
+	<key>preventSleep</key>
+	<true/>
+	<key>dimScreen</key>
+	<false/>
+	<key>startAtLogin</key>
+	<true/>
+</dict>
+</plist>
