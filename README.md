@@ -5,7 +5,7 @@
 
 **Distribution methods**: 
 - On macOS, download the PKG from this Github repository and deploy it using an MDM solution.
-- On iOS/iPadOS, this app **is not** publicly available. It is only available through App Store Connect in selected Apple Business Manager instances.
+- On iOS/iPadOS, this app **is not** publicly available. It is only available through App Store Connect in selected Apple Business Manager instances based on organization IDs.
 
 ## Description
 
