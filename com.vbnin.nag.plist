@@ -9,11 +9,15 @@
 	<key>threatWebsites</key>
 	<string>https://phishing.threatops.co.uk,https://spam.threatops.co.uk,https://dropboxupdates.com,https://www.eicar.org/download-anti-malware-testfile,https://malware.threatops.co.uk</string>
 	<key>scheduleInterval</key>
-	<integer>5</integer>
-	<key>isRandomEnabled</key>
-	<true/>
+	<integer>30</integer>
+	<key>websiteCount</key>
+	<string>10</string>
 	<key>autorunAtLaunch</key>
 	<true/>
+	<key>startTime</key>
+	<integer>0</integer>
+	<key>stopTime</key>
+	<integer>23</integer>
 	<key>preventSleep</key>
 	<true/>
 	<key>dimScreen</key>
