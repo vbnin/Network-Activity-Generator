@@ -1,6 +1,5 @@
 # Network Activity Generator
 
-**Version**: 1.10  
 **Bundle ID**: `com.vbnin.nag`  
 **Supported platforms**: macOS 14+, iOS 15+, iPadOS 15+
 
