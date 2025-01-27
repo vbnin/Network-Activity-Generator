@@ -81,8 +81,6 @@ When deployed via MDM, the app supports the following configuration keys:
    <true/>
    <key>dimScreen</key>
    <false/>
-   <key>startAtLogin</key>
-   <true/>
   </dict>
 ```
 
@@ -128,10 +126,6 @@ When deployed via MDM, the app supports the following configuration keys:
        <integer>9</integer>
        <key>stopTime</key>
        <integer>17</integer>
-       <key>preventSleep</key>
-       <true/>
-       <key>dimScreen</key>
-       <false/>
        <key>startAtLogin</key>
        <true/>
    </dict>
